@@ -1,2 +1,4 @@
 # xilinxSummer_presentation
-video, word, etc.
+
+# structure of project
+![struct](./structAll.jpg)
